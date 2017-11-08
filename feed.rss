@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel><title>My fancy blog</title><link>https://yourusername.github.io/index.html</link>
+<description>A blog about turtles and carrots</description><language>en</language>
+<lastBuildDate>Wed, 08 Nov 2017 13:41:00 +0100</lastBuildDate>
+<pubDate>Wed, 08 Nov 2017 13:41:00 +0100</pubDate>
+<atom:link href="https://yourusername.github.io/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Title on this line
+</title><description><![CDATA[
+
+
+    <p>The rest of the text file is an <b>html</b> blog post. The process will
+      continue as soon
+      as you exit your editor.</p>
+    
+
+<p>Tags: <a href='tag_keep-this-tag-format.html'>keep-this-tag-format</a>, <a href='tag_tags-are-optional.html'>tags-are-optional</a>, <a href='tag_example.html'>example</a></p>
+
+    <p><br>
+    </p>
+    <p>Hello</p>
+  
+<div id="all_posts"><a href="./index.html">Back to the index page</a></div>
+
+<!-- text end -->
+]]></description><link>https://yourusername.github.io/title-on-this-line13133.html</link>
+<guid>https://yourusername.github.io/./title-on-this-line13133.html</guid>
+<dc:creator>John Smith</dc:creator>
+<pubDate>Wed, 08 Nov 2017 13:40:55 +0100</pubDate></item>
+<item><title>
+Title on this line
+</title><description><![CDATA[
+
+
+<p>The rest of the text file is an <b>html</b> blog post. The process will continue as soon
+as you exit your editor.</p>
+
+
+<p>Tags: <a href='tag_keep-this-tag-format.html'>keep-this-tag-format</a>, <a href='tag_tags-are-optional.html'>tags-are-optional</a>, <a href='tag_example.html'>example</a></p>
+<div id="all_posts"><a href="./index.html">Back to the index page</a></div>
+
+<!-- text end -->
+]]></description><link>https://yourusername.github.io/title-on-this-line.html</link>
+<guid>https://yourusername.github.io/./title-on-this-line.html</guid>
+<dc:creator>John Smith</dc:creator>
+<pubDate>Wed, 08 Nov 2017 13:33:37 +0100</pubDate></item>
+<item><title>
+Title
+</title><description><![CDATA[
+
+    <p>The rest of the text file is an <b>html</b> blog post. The process will
+      continue as soon
+      as you exit your editor.</p>
+    
+<p>Tags: <a href='tag_keep-this-tag-format.html'>keep-this-tag-format</a>, <a href='tag_tags-are-optional.html'>tags-are-optional</a>, <a href='tag_example.html'>example</a></p>
+    <p><br>
+    </p>
+    <p>Hello</p>
+  
+<div id="all_posts"><a href="./index.html">Back to the index page</a></div>
+
+<!-- text end -->
+]]></description><link>https://yourusername.github.io/title.html</link>
+<guid>https://yourusername.github.io/./title.html</guid>
+<dc:creator>John Smith</dc:creator>
+<pubDate>Wed, 08 Nov 2017 13:26:26 +0100</pubDate></item>
+</channel></rss>
