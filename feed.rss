@@ -2,61 +2,124 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>My fancy blog</title><link>https://yourusername.github.io/index.html</link>
 <description>A blog about turtles and carrots</description><language>en</language>
-<lastBuildDate>Thu, 09 Nov 2017 10:31:16 +0100</lastBuildDate>
-<pubDate>Thu, 09 Nov 2017 10:31:16 +0100</pubDate>
+<lastBuildDate>Thu, 09 Nov 2017 11:17:31 +0100</lastBuildDate>
+<pubDate>Thu, 09 Nov 2017 11:17:31 +0100</pubDate>
 <atom:link href="https://yourusername.github.io/feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
+Wiak posted in murga-linux.com
+</title><description><![CDATA[
+
+    <img style="width: 123px; height: 123px;" title="Info" alt="Info" src="images/Info.png">
+    <p><br>
+    </p>
+    <p><span class="postbody">In case you haven't already noticed it buried deep
+        in the Applications-&gt;Documents section of the forum, makepup now has
+        a fork in the same program-style family called "makeblog". <br>
+        <br>
+        Makeblog has nothing to do with woof-CE though, being not for woof-CE
+        scripts but rather a frontend for bashblog (a single bash script for
+        creating local or on-the-web blog sites - all stored in single,
+        easy-to-copy directory). Makeblog also provides some enhancements to
+        bashblog and, hopefully like makepup, is simple to use (just run it and
+        press the Do it! button in the gui). You can find makeblog here:
+        <br>
+        <br>
+        <a href="http://www.murga-linux.com/puppy/viewtopic.php?t=112046" target="_blank"
+          class="postlink">http://www.murga-linux.com/puppy/viewtopic.php?t=112046</a>
+        <br>
+        <br>
+      </span></p>
+    <table align="center" border="0" cellpadding="3" cellspacing="1" width="90%">
       <tbody>
-</title><description><![CDATA[
-
-<!-- text end -->
-]]></description><link>https://yourusername.github.io/------tbody.html</link>
-<guid>https://yourusername.github.io/./------tbody.html</guid>
-<dc:creator>John Smith</dc:creator>
-<pubDate>Thu, 09 Nov 2017 10:31:09 +0100</pubDate></item>
-<item><title>
-Title on this line
-</title><description><![CDATA[
-
-
-<p>The rest of the text file is a <strong>Markdown</strong> blog post. The process will continue
-as soon as you exit your editor.</p>
-
-
-<p>Tags: <a href='tag_keep-this-tag-format.html'>keep-this-tag-format</a>, <a href='tag_tags-are-optional.html'>tags-are-optional</a>, <a href='tag_beware-with-underscores-in-markdown.html'>beware-with-underscores-in-markdown</a>, <a href='tag_example.html'>example</a></p>
-
-<h1>Hello</h1>
-<div id="all_posts"><a href="./index.html">Back to the index page</a></div>
-
-<!-- text end -->
-]]></description><link>https://yourusername.github.io/title-on-this-line.html</link>
-<guid>https://yourusername.github.io/./title-on-this-line.html</guid>
-<dc:creator>John Smith</dc:creator>
-<pubDate>Thu, 09 Nov 2017 10:06:05 +0100</pubDate></item>
-<item><title>
-MakeBlog Info
-</title><description><![CDATA[
-
-
-    <p>The rest of the text file is an <b>html</b> blog post. The process will
-      continue as soon
-      as you exit your editor.</p>
+        <tr>
+          <td><span class="genmed"><b>Quote:</b></span></td>
+        </tr>
+        <tr>
+          <td class="quote">Tip: makeblog is also useful as a note-keeping
+            system whether you published the resulting blog pages online or not.
+            Can also help organise your local documents since you can include
+            links in any blog post to where any document (or photo or video or
+            folder) is stored. It is also easy to embed say a youtube video in a
+            blog post. I'll post about how to do that later. You can of course
+            easily also insert images (including animated gifs) in your blog
+            post notes.</td>
+        </tr>
+      </tbody>
+    </table>
+    <span class="postbody">
+      <br>
+      <br>
+      I'm actually using this instead of hierarchical notetaker cherrytree, as
+      well as making online github.io blogs with it. Cherrytree was unable to
+      use jpeg image files (everything went to png) and the single cherrytree
+      notes files became larger than suited me. Also rtf isn't as good as html
+      (via bluegriffon or similar wysiwyg html editor) for embedding videos and
+      so on. In fact html is a very powerful method for making and storing docs
+      and making links to existing ones, all of which I use
+      makeblog/enhanced-bashblog for.
+      <br>
+      <br>
+      <span style="font-weight: bold">NOTE how well cut and paste directly from
+        forum post into makeblog new post works</span> (depends on CSS of
+      course, but matches forum style wonderfully - try doing that with
+      cherrytree or notecase and compare result...).
+      <br>
+      <br>
+      I have also created a blog post that contains links to folders (trivial to
+      do with bluegriffon as makeblog html editor) and various important files
+      on my system (including folder with music/videos in it, which I can then
+      click to play in background whilst I'm browsing...) so I can easily access
+      these resources immediately from within my browser and also browse my blog
+      notes.
+      <br>
+      <br>
+      <span style="font-weight: bold">TIP: Make a personal local blog index page
+        the homepage for your browser - and use that local blog ito manage all
+        your notes and contents.</span>
+      <br>
+      <br>
+      Makeblog doesn't (yet, or ever?) contain any local search for text in post
+      utility, but for now at least I use geany for searching for text strings
+      in my makeblog-generated blog notes - geany has a truly excellent Search
+      -&gt; Find in Files utility that even allows use of regular expressions,
+      so you can quickly find name of note the text is in and then open it in
+      browser etc. Just point geany FInd in FIles to current local makeblog
+      directory and enter search term and the result will pop up. Or simply use
+      grep (or even sed!) from the makeblog folder:
+      <br>
+      <br>
+    </span>
+    <table align="center" border="0" cellpadding="3" cellspacing="1" width="90%">
+      <tbody>
+        <tr>
+          <td><span class="genmed"><b>Code:</b></span></td>
+        </tr>
+        <tr>
+          <td class="code">grep -rn '&lt;text_string_to_search_for&gt;' *.html</td>
+        </tr>
+      </tbody>
+    </table>
+    <span class="postbody">
+      <br>
+      with some extra coding could no doubt get grep search result, as part of a
+      gui, in a clickable window to open up in browser or html code editor (but
+      I haven't written that code).
+      <br>
+      <br>
+      Tested on both Slacko64 and XenialDog32. But should work on pretty much
+      any Puppy.
+      <br>
+      <br>
+      wiak</span>
+    <p></p>
     
-
 <p>Tags: <a href='tag_keep-this-tag-format.html'>keep-this-tag-format</a>, <a href='tag_tags-are-optional.html'>tags-are-optional</a>, <a href='tag_example.html'>example</a></p>
-
-    <p><br>
-    </p>
-    <img title="Info" alt="Info" src="images/Info.png">
-    <p><br>
-    </p>
-    <p><span style="color: #ab3491;">Hello </span></p>
   
 <div id="all_posts"><a href="./index.html">Back to the index page</a></div>
 
 <!-- text end -->
-]]></description><link>https://yourusername.github.io/makeblog-info.html</link>
-<guid>https://yourusername.github.io/./makeblog-info.html</guid>
+]]></description><link>https://yourusername.github.io/wiak-posted-in-murga-linuxcom.html</link>
+<guid>https://yourusername.github.io/./wiak-posted-in-murga-linuxcom.html</guid>
 <dc:creator>John Smith</dc:creator>
-<pubDate>Wed, 08 Nov 2017 18:01:13 +0100</pubDate></item>
+<pubDate>Thu, 09 Nov 2017 11:17:23 +0100</pubDate></item>
 </channel></rss>
