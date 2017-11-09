@@ -1,0 +1,44 @@
+        <tr>
+          <td><span style="font-weight: bold;">dd</span></td>
+          <td>ddd</td>
+          <td>dddd</td>
+        </tr>
+        <tr>
+          <td>cccccc</td>
+          <td>cccc</td>
+          <td>cc</td>
+        </tr>
+        <tr>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+        </tr>
+        <tr>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+        </tr>
+        <tr>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <h3>Title on this line</h3>
+    <p>The rest of the text file is an <b>html</b> blog post. The process will
+      continue as soon
+      as you exit your editor.</p>
+    
+<p>Tags: <a href='tag_keep-this-tag-format.html'>keep-this-tag-format</a>, <a href='tag_tags-are-optional.html'>tags-are-optional</a>, <a href='tag_example.html'>example</a></p>
+  
+<div id="all_posts"><a href="./index.html">Back to the index page</a></div>
