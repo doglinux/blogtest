@@ -26,6 +26,8 @@
 ## Change log:
 ### 0.0.1 first version
 
+ln -s ../bluegriffon/bluegriffon /usr/local/bin/bluegriffon
+
 trap ontrap INT TERM ERR EXIT
 
 export TEXTDOMAIN=makeblog
